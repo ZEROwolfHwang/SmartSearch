@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidDemo\\WeiXinCamera-master\\SmartSearch-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidDemo\\WeiXinCamera-master\\SmartSearch-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\WeiXinCamera-master\\SmartSearch-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "E:\\AndroidDemo\\WeiXinCamera-master\\SmartSearch-master\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidDemo\\WeiXinCamera-master\\SmartSearch-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
+        "source": "E:\\AndroidDemo\\WeiXinCamera-master\\SmartSearch-master\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    }
+]
